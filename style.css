@@ -1,0 +1,26 @@
+.container-fluid {
+    margin: 5%;
+}
+.gris,
+.noir,
+.orange,
+.jaune {
+    padding-top: 10%;
+    border: 1px solid grey;
+}
+.gris {
+    background-color: #333;
+}
+
+.jaune {
+    background-color: gold;
+}
+
+.orange {
+    background-color: #f84;
+}
+
+.noir {
+    background-color: black;
+}
+
